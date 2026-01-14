@@ -1,0 +1,10 @@
+# Cloudflare Workers configuration
+name = "daytona-sdk-test"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = ".svelte-kit/cloudflare"
+
+# Environment variables (optional - can also be set via Cloudflare dashboard)
+# [vars]
+# DAYTONA_API_KEY = "your-api-key-here"
+# DAYTONA_API_URL = "https://api.daytona.io"
+# DAYTONA_TARGET = "us"
